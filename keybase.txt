@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/simonvilleneuve
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.simonvilleneuve.ca
+  * I am simonvilleneuve (https://keybase.io/simonvilleneuve) on keybase.
+  * I have a public key with fingerprint 02EB 3CCE 8323 2245 786A  5D75 A251 CEE3 4C3C C364
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e01029cf9ea9a32de4e732311d07eb9c8e99393466c38c6c3880e83e4708a11e0a",
+      "fingerprint": "02eb3cce83232245786a5d75a251cee34c3cc364",
+      "host": "keybase.io",
+      "key_id": "a251cee34c3cc364",
+      "kid": "0101e01029cf9ea9a32de4e732311d07eb9c8e99393466c38c6c3880e83e4708a11e0a",
+      "uid": "4ae9e0287a6958478c0dae19ac61a819",
+      "username": "simonvilleneuve"
+    },
+    "merkle_root": {
+      "ctime": 1575815363,
+      "hash_meta": "208974c6596266b850133d2d23be8f9b9ebfa95e5060b3778bdc7107156b2fde",
+      "seqno": 12836112
+    },
+    "revoke": {
+      "sig_ids": [
+        "45572d13a78e3e53ff786d7e5535ca04cf636055e4dd5c72d4932379d4e93ec00f"
+      ]
+    },
+    "service": {
+      "hostname": "www.simonvilleneuve.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1575815364,
+  "expire_in": 157680000,
+  "prev": "35a08fc660c0460f6a34e017c9660933902b8953fb4b1fbcc5aff12b83da2844",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtU11sFUUUvu2FckFB0If6B5qNJlVqM7PzszOlD/LiH2ohmEg19WZ29my79nb3
+uru910tpMFFMK4n8JCryU9IGBdQADz4pGo1KU6Qm4pPGqKVq0gSIFY0JJtXZG4wJ
+8dF5mMme/c53vvOdmZ1L87lCw/iGL2Ye7vjEa/h81s11XyhMDlpu5NWs9kGrD+oH
+lDxI0mJf4FntFsIIg9lsqX0JSipie0DBITbB2EMOuFILkJJIQjnXROhsEwgEAeog
+obBJV1ar5QdhD8TlOAjTjNYGl2htUDaxbcocwRXzHKZshjUAodr8JZyaxN4oyTKM
+OFcl0BZEJmY+inV5/4H/n3UP1OmoAgnIFo7ikgnqCI08BVgqzbESWGbABOJQ9YNB
+J0F/FFaCUglCGKiANdRq9UPcV4JiHEVp5rFOgwyJmcMEZoQT06dKeov9kCpDYCMh
+Hao5k9zm3BUMYUI827OJC8KXrgTXV5IBQxy5xHGE62kHIwcz7tq+B0ZOAs+Ekalg
+C8Ixto2EGCpRH2TVk6DH2Jd8NGK1P2lRxhzbw0Q5Aggw4vtmGJ4DjBGmFaLa54Qj
+xoB6HtMGSqUx0ZEeBUlAI+Rb3UNZvbgS6Dp9NrErTlSr1bar3GjTma3lOEojHZUM
+pjdNy0l7ZlJaK9eTwC1eoSu6QeiZm2MyKhAnQRSalgzyav9oqwXPloMYikFYD3OB
+zMrqQMVQEqaQ8DXnSCPKkc8VoeZ6OFqakCREItsV0jTvUhf7rtZM+T42MeIpW1D6
+r6G2MDpVT33KPaFKB2Iz3yUjDbcuyDUUck0LG7M3lVuyePk/D+3Yh4vm79i2o1uu
+Hzs9UTv1S3X117vpyFdHurrf+m7drpnSdW9cuv6HV0fPDy++Zk2+45v0yIU/7mrz
+N+pqk7fw56nLbPj84MRPq8dPjj42fLkwteX95/jGB8t/nVmaf/Mz59iqwomVGxpL
+E53paxeb8XRX85qxgzc/PdeIb5eHT21ecGjZI+tePHDg+K57v//1bDq7fGh++/4v
+L97dMvr43KHZd6ZaHr32IGsOO9bel+7Z/vud56ZJ684VJ/O/1T4++8AJeemhFa/f
+0tXZ/8SetweXzew7s2nr+Ls7pu+frHW+/MLRta80zd22d9PKm04f3ff88ffm/nzp
+08rYt6u2kHNO/obD89sWPXXP7sm9H9y4fvPWWsuPfwM=
+=yBfk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonvilleneuve
+
+==================================================================
